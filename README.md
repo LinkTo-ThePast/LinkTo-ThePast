@@ -1,6 +1,10 @@
-<p style="text-align: center;"># Hi, I'm Luis Rivera 👋</p>
+<div align="center">
 
-<p style="text-align: center;"> Software Engineering student at UVEG | BSc in Chemical Engineering with Data Science specialization at UNAM</p>
+# Hi, I'm Luis Rivera 👋
+
+Software Engineering student at UVEG | BSc in Chemical Engineering with Data Science specialization at UNAM
+
+</div>
 
 ## 🛠️ Languages
 
@@ -8,9 +12,10 @@ Here are some languages I work with:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-00273f?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
+<br/>
 
 ## 📚 Technology stack
 
@@ -18,6 +23,9 @@ Here are some languages I work with:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+<br/>
 
 ## 📫 How to reach me
 
